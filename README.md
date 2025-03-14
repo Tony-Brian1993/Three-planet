@@ -1,6 +1,6 @@
 # threejs-planet
 
-A procedural planet generator written using Three.js.
+A procedural planet generator written using Three.js
 
 # Live Demo
 
